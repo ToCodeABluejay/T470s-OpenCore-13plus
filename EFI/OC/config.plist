@@ -1223,7 +1223,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
-			<string>Default</string>
+			<string>Disabled</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
@@ -1245,15 +1245,19 @@
 			<dict>
 				<key>rtc-blacklist</key>
 				<data></data>
+				<key>OCLP-Settings</key>
+				<string>-allow_amfi</string>
+				<key>revpatch</key>
+				<string>sbvmm,asset</string>
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1  debug=0x100 alcid=29  -cdfon -v</string>
+				<string>keepsyms=1  debug=0x100 alcid=29  -cdfon -v ipc_control_port_options=0</string>
 				<key>csr-active-config</key>
-				<data>AAAAAA==</data>
+				<data>AwgAAA==</data>
 				<key>prev-lang:kbd</key>
 				<data>ZW4tVVM6MA==</data>
 				<key>run-efi-updater</key>
@@ -1270,6 +1274,9 @@
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<array>
 				<string>rtc-blacklist</string>
+				<string>OCLP-Settings</string>
+				<string>revblock</string>
+				<string>revpatch</string>
 			</array>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<array>
@@ -1332,7 +1339,7 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,1</string>
+			<string>MacBookPro13,1</string>
 			<key>SystemSerialNumber</key>
 			<string>C02WK2YEHV29</string>
 			<key>SystemUUID</key>
