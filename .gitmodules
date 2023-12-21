@@ -1,0 +1,3 @@
+[submodule "EFI/OC/AppleHDA.kext"]
+	path = EFI/OC/AppleHDA.kext
+	url = https://github.com/koush/AppleHDA.kext.git
