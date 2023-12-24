@@ -1450,28 +1450,10 @@
                 <string>Auto</string>
                 <key>CustomDelays</key>
                 <false/>
-                <key>GraphicsInputMirroring</key>
-                <false/>
                 <key>KeyInitialDelay</key>
                 <integer>50</integer>
                 <key>KeySubsequentDelay</key>
                 <integer>5</integer>
-                <key>PointerDwellClickTimeout</key>
-                <integer>0</integer>
-                <key>PointerDwellDoubleClickTimeout</key>
-                <integer>0</integer>
-                <key>PointerDwellRadius</key>
-                <integer>0</integer>
-                <key>PointerPollMask</key>
-                <integer>-1</integer>
-                <key>PointerPollMax</key>
-                <integer>80</integer>
-                <key>PointerPollMin</key>
-                <integer>10</integer>
-                <key>PointerSpeedDiv</key>
-                <integer>1</integer>
-                <key>PointerSpeedMul</key>
-                <integer>1</integer>
             </dict>
             <key>Audio</key>
             <dict>
