@@ -1598,8 +1598,6 @@
                 <false/>
                 <key>ExitBootServicesDelay</key>
                 <integer>0</integer>
-                <key>ForceOcWriteFlash</key>
-                <false/>
                 <key>ForgeUefiSupport</key>
                 <false/>
                 <key>IgnoreInvalidFlexRatio</key>
