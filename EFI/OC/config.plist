@@ -1142,8 +1142,6 @@
                 <false/>
                 <key>ExternalDiskIcons</key>
                 <false/>
-                <key>ForceAquantiaEthernet</key>
-                <false/>
                 <key>ForceSecureBootScheme</key>
                 <false/>
                 <key>IncreasePciBarSize</key>
