@@ -1596,8 +1596,6 @@
                 <false/>
                 <key>EnableVectorAcceleration</key>
                 <false/>
-                <key>EnableVmx</key>
-                <false/>
                 <key>ExitBootServicesDelay</key>
                 <integer>0</integer>
                 <key>ForceOcWriteFlash</key>
