@@ -1608,8 +1608,6 @@
                 <false/>
                 <key>RequestBootVarRouting</key>
                 <true/>
-                <key>ResizeGpuBars</key>
-                <integer>-1</integer>
                 <key>TscSyncTimeout</key>
                 <integer>0</integer>
                 <key>UnblockFsConnect</key>
